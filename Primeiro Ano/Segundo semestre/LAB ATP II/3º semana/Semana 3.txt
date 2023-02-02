@@ -1,0 +1,17 @@
+1) Faça uma subrotina/função que receba um vetor 'A' de 10 elementos inteiros como parâmetro:
+   	- Ao final dessa função, deverá ter sido gerado um vetor 'B' contendo o fatorial de cada elemento de 'A'.
+   	- O vetor 'B' deverá ser mostrado no programa principal.
+
+2) Faça um programa contendo uma subrotina/função que receba dois valores numéricos e um símbolo. 
+   Esse símbolo representará a operação que se deseja efetuar com os números. Considere os símbolos de:
+	-> +;
+	-> -;
+	-> *;
+	-> /.
+  
+   O resultado deverá ser mostrado no programa principal.
+
+3) A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e o número de filhos. 
+   Faça uma função que:
+   	- Leia esses dados para um número não determinado de pessoas; 
+        - Retorne a média de salário da população, a média do número de filhos, o maior salário e o percentual de pessoas com salário inferior a 1000 reais. 

@@ -1,0 +1,22 @@
+1) Uma empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou não de um novo produto lançado. 
+   Para isso, forneceu o sexo do entrevistado e sua resposta (S- sim N- Não). Sabe-se que foram entrevistadas 10 pessoas.
+   Faça um programa que calcule e mostre:
+   	- O número de pessoas que responderam "sim";
+   	- O número de pessoas que respoderam "não";
+   	- O número de mulheres que responderam "sim";
+   	- A porcentagem de homens que responderam "não" entre todos os homens analisados.
+
+2) Faça um programa que preencha um vetor com 10 números inteiros e um segundo vetor com 5 números inteiros, calcule e mostre dois vetores    resultantes: 
+	- O primeiro vetor resultante será composto pela soma de cada número par do primeiro vetor somado a todos os números do segundo vetor;
+	- O segundo vetor resultante será composto pela quantidade de divisores que cada número impar do primeiro vetor tem no segundo vetor.
+
+3) Crie um programa que:
+	- Receba o preço de 10 produtos e armazene-os em um vetor;
+	- Receba a quantidade estocada de cada um desses produtos, em cinco armazens diferentes, utilizando uma matriz.
+
+   O programa deverá calcular e mostrar:
+	- A quantidade de produtos estocados em cada um dos armazens;
+	- A quantidade de cada um dos produtos estocados, em todos os armazens juntos;
+	- O preço do produto que possui maior estoque em um único armazem;
+	- O menor estoque armazenado;
+	- O custo de cada armazem. 
