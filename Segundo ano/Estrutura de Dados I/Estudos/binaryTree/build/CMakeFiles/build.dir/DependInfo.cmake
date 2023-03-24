@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/binarytree.c" "CMakeFiles/build.dir/src/binarytree.c.o" "gcc" "CMakeFiles/build.dir/src/binarytree.c.o.d"
-  "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/main.c" "CMakeFiles/build.dir/src/main.c.o" "gcc" "CMakeFiles/build.dir/src/main.c.o.d"
+  "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/binarytree.c" "CMakeFiles/build.dir/src/binarytree.c.o" "gcc" "CMakeFiles/build.dir/src/binarytree.c.o.d"
+  "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/main.c" "CMakeFiles/build.dir/src/main.c.o" "gcc" "CMakeFiles/build.dir/src/main.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -4,7 +4,7 @@
 # compile C with /sbin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I"/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/include"
+C_INCLUDES = -I"/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/include"
 
 C_FLAGS = 
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree"
+CMAKE_SOURCE_DIR = "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build"
+CMAKE_BINARY_DIR = "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/build.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/build.dir/progress.make
 include CMakeFiles/build.dir/flags.make
 
 CMakeFiles/build.dir/src/binarytree.c.o: CMakeFiles/build.dir/flags.make
-CMakeFiles/build.dir/src/binarytree.c.o: /home/vinicius/Documentos/faculdade/Segundo\ ano/Estrutura\ de\ Dados\ I/study/binaryTree/src/binarytree.c
+CMakeFiles/build.dir/src/binarytree.c.o: /home/vinicius/Documentos/faculdade/Segundo\ ano/Estrutura\ de\ Dados\ I/Estudos/binaryTree/src/binarytree.c
 CMakeFiles/build.dir/src/binarytree.c.o: CMakeFiles/build.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/build.dir/src/binarytree.c.o"
-	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/build.dir/src/binarytree.c.o -MF CMakeFiles/build.dir/src/binarytree.c.o.d -o CMakeFiles/build.dir/src/binarytree.c.o -c "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/binarytree.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/build.dir/src/binarytree.c.o"
+	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/build.dir/src/binarytree.c.o -MF CMakeFiles/build.dir/src/binarytree.c.o.d -o CMakeFiles/build.dir/src/binarytree.c.o -c "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/binarytree.c"
 
 CMakeFiles/build.dir/src/binarytree.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/build.dir/src/binarytree.c.i"
-	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/binarytree.c" > CMakeFiles/build.dir/src/binarytree.c.i
+	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/binarytree.c" > CMakeFiles/build.dir/src/binarytree.c.i
 
 CMakeFiles/build.dir/src/binarytree.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/build.dir/src/binarytree.c.s"
-	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/binarytree.c" -o CMakeFiles/build.dir/src/binarytree.c.s
+	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/binarytree.c" -o CMakeFiles/build.dir/src/binarytree.c.s
 
 CMakeFiles/build.dir/src/main.c.o: CMakeFiles/build.dir/flags.make
-CMakeFiles/build.dir/src/main.c.o: /home/vinicius/Documentos/faculdade/Segundo\ ano/Estrutura\ de\ Dados\ I/study/binaryTree/src/main.c
+CMakeFiles/build.dir/src/main.c.o: /home/vinicius/Documentos/faculdade/Segundo\ ano/Estrutura\ de\ Dados\ I/Estudos/binaryTree/src/main.c
 CMakeFiles/build.dir/src/main.c.o: CMakeFiles/build.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/build.dir/src/main.c.o"
-	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/build.dir/src/main.c.o -MF CMakeFiles/build.dir/src/main.c.o.d -o CMakeFiles/build.dir/src/main.c.o -c "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/build.dir/src/main.c.o"
+	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/build.dir/src/main.c.o -MF CMakeFiles/build.dir/src/main.c.o.d -o CMakeFiles/build.dir/src/main.c.o -c "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/main.c"
 
 CMakeFiles/build.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/build.dir/src/main.c.i"
-	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/main.c" > CMakeFiles/build.dir/src/main.c.i
+	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/main.c" > CMakeFiles/build.dir/src/main.c.i
 
 CMakeFiles/build.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/build.dir/src/main.c.s"
-	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/src/main.c" -o CMakeFiles/build.dir/src/main.c.s
+	/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/src/main.c" -o CMakeFiles/build.dir/src/main.c.s
 
 # Object files for target build
 build_OBJECTS = \
@@ -109,7 +109,7 @@ build: CMakeFiles/build.dir/src/binarytree.c.o
 build: CMakeFiles/build.dir/src/main.c.o
 build: CMakeFiles/build.dir/build.make
 build: CMakeFiles/build.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable build"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable build"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/build.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/build.dir/clean:
 .PHONY : CMakeFiles/build.dir/clean
 
 CMakeFiles/build.dir/depend:
-	cd "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles/build.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build" "/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles/build.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/build.dir/depend
 

@@ -1,3 +1,3 @@
-/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles/build.dir
-/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles/edit_cache.dir
-/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/study/binaryTree/build/CMakeFiles/rebuild_cache.dir
+/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles/build.dir
+/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles/edit_cache.dir
+/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Estudos/binaryTree/build/CMakeFiles/rebuild_cache.dir
