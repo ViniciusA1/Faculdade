@@ -1,0 +1,3 @@
+/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Atividades/2-ListaSequencial/build/CMakeFiles/build.dir
+/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Atividades/2-ListaSequencial/build/CMakeFiles/edit_cache.dir
+/home/vinicius/Documentos/faculdade/Segundo ano/Estrutura de Dados I/Atividades/2-ListaSequencial/build/CMakeFiles/rebuild_cache.dir
